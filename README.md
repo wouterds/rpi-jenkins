@@ -4,7 +4,7 @@ A basic Jenkins image that's compatible with Raspberry Pi. Automated builds are 
 
 ### Supported tags and respective `Dockerfile` links
 
-- [`2.0`](https://github.com/wouterds/rpi-jenkins/tree/2.0/Dockerfile), [`2.1`](https://github.com/wouterds/rpi-jenkins/tree/2.1/Dockerfile), [`2.2`, `latest` (*Dockerfile*)](https://github.com/wouterds/rpi-jenkins/tree/2.2/Dockerfile)
+- [`2.45`](https://github.com/wouterds/rpi-jenkins/tree/2.45/Dockerfile), [`2.46`](https://github.com/wouterds/rpi-jenkins/tree/2.46/Dockerfile), [`2.47`](https://github.com/wouterds/rpi-jenkins/tree/2.47/Dockerfile), [`2.48`](https://github.com/wouterds/rpi-jenkins/tree/2.48/Dockerfile), [`2.49`, `latest` (*Dockerfile*)](https://github.com/wouterds/rpi-jenkins/tree/2.49/Dockerfile)
 
 ### What is Jenkins?
 
