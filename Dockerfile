@@ -2,7 +2,7 @@ FROM jsurf/rpi-raspbian:latest
 MAINTAINER Wouter De Schuyter <wouter.de.schuyter@gmail.com>
 
 # Jenkins version
-ENV JENKINS_VERSION 2.2
+ENV JENKINS_VERSION 2.3
 
 # Other env variables
 ENV JENKINS_HOME /var/jenkins_home
